@@ -1,4 +1,4 @@
-FROM mono:4.0.1
+FROM mono:4.4.2.11
 
 ENV DNX_VERSION 1.0.0-rc1-update1
 ENV DNX_USER_HOME /opt/dnx
